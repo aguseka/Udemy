@@ -1,0 +1,42 @@
+{
+    "employees": [
+        {
+            "firstName": "John",
+            "lastName": "Doe"
+        },
+        {
+            "firstName": "Anna",
+            "lastName": "Smith"
+        },
+        {
+            "firstName": "Peter",
+            "lastName": "Jones"
+        },
+        {
+            "firstName": "Albert",
+            "lastName": "Einstein"
+        },
+        {
+            "firstName": "Eka",
+            "lastName": "Maharta"
+        },
+        {
+            "namaBelakang": "Dharma",
+            "namaDepan": "Satria"
+        },
+        {
+            "firstName": "Kartika",
+            "lasName": "Maharta"
+        }
+    ],
+    "owners": [
+        {
+            "firstName": "Jack",
+            "lastName": "Peter"
+        },
+        {
+            "firstName": "Jessy",
+            "lastName": "Peter"
+        }
+    ]
+}
